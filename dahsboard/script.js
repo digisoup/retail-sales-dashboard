@@ -5,11 +5,11 @@ const salesCtx = document.getElementById("salesChart");
 new Chart(salesCtx, {
   type: "bar",
   data: {
-    labels: ["West", "East", "Central", "South"],
+    labels: ["Central", "East", "South", "West"],
     datasets: [
       {
         label: "Sales ($)",
-        data: [245000, 210000, 180000, 160000],
+        data: [501239.89, 678781.24, 391721.9, 725457.82],
       },
     ],
   },
@@ -25,11 +25,11 @@ const profitCtx = document.getElementById("profitChart");
 new Chart(profitCtx, {
   type: "bar",
   data: {
-    labels: ["Technology", "Office Supplies", "Furniture"],
+    labels: ["Furniture", "Office Supplies", "Technology"],
     datasets: [
       {
         label: "Profit ($)",
-        data: [55000, 42000, 18000],
+        data: [18451.27, 122490.8, 145454.95],
       },
     ],
   },
@@ -84,7 +84,7 @@ new Chart(segmentCtx, {
     labels: ["Consumer", "Corporate", "Home Office"],
     datasets: [
       {
-        data: [55, 30, 15],
+        data: [1161401.34, 706146.37, 429653.15],
       },
     ],
   },
