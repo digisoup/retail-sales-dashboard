@@ -1,18 +1,28 @@
 # Retail Sales Dashboard
 
-Business analytics dashboard focused on identifying sales trends, profitability, and regional performance using retail sales data.
+## Overview
 
-## Objectives
+Interactive dashboard analyzing retail sales performance using the Superstore dataset.
 
-- Analyze sales performance
-- Identify profitable categories
-- Track regional performance
-- Visualize business KPIs
+## KPIs
 
-## Tools
+- Total Sales: $2.3M
+- Total Profit: $286K
+- Top Region: West
+- Top Category: Technology
+
+## Key Findings
+
+- West region generated the highest sales.
+- Technology was the most profitable category.
+- Consumer customers accounted for the largest share of revenue.
+- Furniture produced significantly lower profit than other categories.
+
+## Tools Used
 
 - HTML
 - CSS
 - JavaScript
 - Chart.js
-# retail-sales-dashboard
+- Git
+- GitHub
