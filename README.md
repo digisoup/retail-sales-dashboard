@@ -26,3 +26,5 @@ Interactive dashboard analyzing retail sales performance using the Superstore da
 - Chart.js
 - Git
 - GitHub
+
+![Project Logo](screenshot.png)
